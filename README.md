@@ -1,3 +1,5 @@
-Look at the DB script.sql
+1. Look at the DB script.sql for MySql DB.
 
-book.cakephp.org/3.0/en/bake/usage.html
+2. [Cake Bake Usage](book.cakephp.org/3.0/en/bake/usage.html)
+
+3. The CakePhp framework folder along with auto generated (baked) code is in dti.tar
